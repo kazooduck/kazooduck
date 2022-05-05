@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamonanban/kazooduck
-- 👀 I’m interested in minecraft modding, web developement, and trying new things
+- 👀 I’m interested in android, web developement, and trying new things
 - 🌱 I’m currently learning gemini web development
 - 💞️ I’m looking to collaborate on whatever!
 - 📫 How to reach me: kamonanban# 3 5 8 0 (on discord, no spaces)
