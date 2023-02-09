@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kamonanban/kazooduck
-- 👀 I’m interested in android, web developement, and trying new things
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on whatever!
-- 📫 How to reach me: kazooduck#3580 (discord)
+- 👋 Hi, I’m Vicken Semerdjian @vickensemerdjian (woah i know)
+- 👀 I’m interested in android, web developement, and cybersecurity
+- 🌱 I’m currently learning css, C++, and basicly anything
+- 💞️ I’m currently in a learning phase, no collaboration please!! (ill be open soon)
+- 📫 How to reach me: im honored but if you dont already know me, I dont want you to reach out.
 
 <!---
 kazooduck/kazooduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
